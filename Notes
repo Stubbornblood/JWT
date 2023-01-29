@@ -1,0 +1,2 @@
+provide ability to user so that no other user can delete ther post 
+JWT -> JASON WEB Token provide unique token which user can use instead of using session cookies 
